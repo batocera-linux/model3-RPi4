@@ -69,7 +69,7 @@ endif
 #
 # Compiler options
 #
-ARCH =
+ARCH = -march=armv8-a -mtune=cortex-a72
 OPT = -O3
 WARN = -Wall
 CSTD = -std=iso9899:2011
