@@ -8,6 +8,8 @@ This is the resulting binary & associated files built on a RPI4 running Ubuntu 2
 Batocera will now grab these files to install during the RPi4 build process.
 
 Note: The binary is modified to run specifically with Batocera Linux v33 or later.
+      The Rules file is changed also to optimise for the RPi4.
 
+I appreciate the developers of this great emulator.
 The original source code is available here:
 https://sourceforge.net/p/model3emu/code/HEAD/tree/trunk/
